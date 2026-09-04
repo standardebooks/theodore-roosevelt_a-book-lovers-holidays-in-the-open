@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/theodore-roosevelt/a-book-lovers-holidays-in-the-open</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-09-04T20:20:13Z</dc:date>
+		<meta property="dcterms:modified">2026-09-04T20:20:13Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<meta property="rdf:type">http://schema.org/Book</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
@@ -48,16 +48,16 @@
 		<meta property="term" refines="#subject-5">sh85125673</meta>
 		<meta property="schema:genre">Nonfiction</meta>
 		<meta property="schema:genre">Travel</meta>
-		<meta property="schema:abstract">Theodore Roosevelt weaves his love of reading with his recount of his travels through the Americas.</meta>
+		<meta property="schema:abstract">Outdoorsman and former U.S. president Theodore Roosevelt weaves his love of reading into the stories of his travels through the Americas.</meta>
 		<dc:description>
-			&lt;p&gt;&lt;i&gt;A Book-Lover’s Holidays in the Open&lt;/i&gt; is a travelogue written by former U.S. president &lt;a href="https://standardebooks.org/ebooks/theodore-roosevelt"&gt;Theodore Roosevelt&lt;/a&gt; about his expeditions through the Americas following his early nineteenth-century presidency. In it, Roosevelt takes readers on a cougar hunt in the Grand Canyon, through the Andes and Northern Patagonia, to a Mississippi River bird reserve, and to a Hopi snake dance, among others.&lt;/p&gt;
-			&lt;p&gt;Roosevelt blends his love for reading and literature with these adventures, giving readers a look into the books he would have brought on his outdoor journeys.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;A Book-Lover’s Holidays in the Open&lt;/i&gt; is a travelogue written by former U.S. president &lt;a href="https://standardebooks.org/ebooks/theodore-roosevelt"&gt;Theodore Roosevelt&lt;/a&gt; about his expeditions through the Americas following his presidency in the early nineteenth century. In it, Roosevelt takes readers on a cougar hunt in the Grand Canyon, through the Andes and Northern Patagonia, to a Mississippi River bird reserve, and to a Hopi snake dance, among other exotic and beautiful locations.&lt;/p&gt;
+			&lt;p&gt;Roosevelt blends his love for reading and literature with these adventures, giving readers a glimpse into the books he would have brought on his outdoor journeys.&lt;/p&gt;
 		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/34135</dc:source>
 		<dc:source>https://archive.org/details/bookloversholida00roos</dc:source>
-		<meta property="schema:wordCount">WORD_COUNT</meta>
-		<meta property="schema:educationalLevel">READING_EASE</meta>
+		<meta property="schema:wordCount">80580</meta>
+		<meta property="schema:educationalLevel">54.56</meta>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
 		<link href="https://github.com/standardebooks/theodore-roosevelt_a-book-lovers-holidays-in-the-open" refines="#vcs-repository" rel="schema:codeRepository"/>
@@ -99,6 +99,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">wat</meta>
+		<dc:contributor id="producer-2">Weijia Cheng</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cheng, Weijia</meta>
+		<link href="https://weijiarhymeswith.asia/" refines="#producer-2" rel="schema:url"/>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
