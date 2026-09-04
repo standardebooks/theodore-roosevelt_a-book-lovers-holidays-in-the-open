@@ -241,25 +241,14 @@ p[xml|lang]{
 	text-align: center;
 }
 
-#appendix-a table{
-	margin-left: auto;
-	text-align: right;
-}
-
-#appendix-a table tr td:first-child{
-	text-align: center;
-}
-
 #appendix-a blockquote footer p{
-	text-indent: 0;
-}
-
-#appendix-a blockquote footer p:first-child{
 	text-align: right;
+	text-indent: 0;
 }
 
 #appendix-a blockquote footer p:last-child{
 	margin-top: 1em;
+	text-align: center;
 }
 
 #appendix-a blockquote footer span[epub|type~="z3998:signature"]{
@@ -267,5 +256,5 @@ p[xml|lang]{
 }
 
 #appendix-b ol{
-	list-style-type: none;
+	list-style-type: disc;
 }
