@@ -34,16 +34,16 @@
 		<dc:subject id="subject-1">Hunting</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85063117</meta>
-		<dc:subject id="subject-2">South America -- Description and travel</dc:subject>
+		<dc:subject id="subject-2">South America--Description and travel</dc:subject>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85125525</meta>
-		<dc:subject id="subject-3">Books and reading -- United States</dc:subject>
+		<dc:subject id="subject-3">Books and reading--United States</dc:subject>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh85015759</meta>
-		<dc:subject id="subject-4">Birds -- Conservation</dc:subject>
+		<dc:subject id="subject-4">Birds--Conservation</dc:subject>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh85014335</meta>
-		<dc:subject id="subject-5">Southwest, New -- Description and travel</dc:subject>
+		<dc:subject id="subject-5">Southwest, New--Description and travel</dc:subject>
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh85125673</meta>
 		<meta property="schema:genre">Nonfiction</meta>
