@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/theodore-roosevelt/a-book-lovers-holidays-in-the-open</dc:identifier>
 		<dc:date>1900-01-01T00:00:00Z</dc:date>
@@ -48,11 +48,11 @@
 		<meta property="term" refines="#subject-5">sh85125673</meta>
 		<meta property="schema:genre">Nonfiction</meta>
 		<meta property="schema:genre">Travel</meta>
-		<dc:description id="description">Theodore Roosevelt weaves his love of reading with his recount of his travels through the Americas.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<meta property="schema:abstract">Theodore Roosevelt weaves his love of reading with his recount of his travels through the Americas.</meta>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;A Book-Lover’s Holidays in the Open&lt;/i&gt; is a travelogue written by former U.S. president &lt;a href="https://standardebooks.org/ebooks/theodore-roosevelt"&gt;Theodore Roosevelt&lt;/a&gt; about his expeditions through the Americas following his early nineteenth-century presidency. In it, Roosevelt takes readers on a cougar hunt in the Grand Canyon, through the Andes and Northern Patagonia, to a Mississippi River bird reserve, and to a Hopi snake dance, among others.&lt;/p&gt;
 			&lt;p&gt;Roosevelt blends his love for reading and literature with these adventures, giving readers a look into the books he would have brought on his outdoor journeys.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/34135</dc:source>
 		<dc:source>https://archive.org/details/bookloversholida00roos</dc:source>
